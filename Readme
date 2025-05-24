@@ -1,0 +1,16 @@
+Open Google Colab
+Create a New Note book 
+upload Dog image in Google colab folder
+import libraries
+Read Image
+Convert color from BGR to RGB
+Convert the image from RGB to Grayscale
+Image masking ,Seperate the region intrest from original image
+Define Circle
+Draw a white Circle
+Using a bitwise operator on Mask & Images
+Split into the Color Channels
+Check Color Intensity of Grayscale image
+Plot the Histogram
+Plot Histogram for Color Image
+Histogram Equalization
